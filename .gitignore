@@ -1,0 +1,19 @@
+# Build artifacts
+*.o
+*.out
+*.dSYM/
+*.exe
+
+# OS files
+.DS_Store
+
+# Binaries
+/treemap_demo
+/dswtree_demo
+/invertedindex_demo
+/dsw_deneme
+/dswtree
+/treemap
+/tree_map_deneme0
+/my_deneme0
+
